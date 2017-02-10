@@ -1,0 +1,7 @@
+target
+target/classes
+target/classes/static/images/*
+target/classes/com/lagoon/backend
+target/classes/com/lagoon/backend/service
+target/classes/com/lagoon/backend/model
+.idea
