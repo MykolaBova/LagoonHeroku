@@ -1,7 +1,24 @@
-target
-target/classes
-target/classes/static/images/*
-target/classes/com/lagoon/backend
-target/classes/com/lagoon/backend/service
-target/classes/com/lagoon/backend/model
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
 .idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
